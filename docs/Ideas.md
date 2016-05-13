@@ -1,9 +1,5 @@
 Project Ideas:
 
-1. Author Detection using Neural nets
-2. Text Summarization using a Machine Learning Approach
-3. Fine Grained Sentiment Analysis with Structural Features
-4. A Neural Attention Model for Sentence Summarization
-5. Text Understanding from Scratch
-
-All the ideas listed above are from several research papers.
+1. Sentence Completion using Deep Learning
+2. Text Summarization using Deep Learning ( Very keen on this )
+3. Clustering and Auto Labeling of Documents using Deep Learning
