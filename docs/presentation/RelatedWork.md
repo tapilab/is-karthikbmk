@@ -1,10 +1,10 @@
-<b>1: Text Summarization Using Neural Networks  </b>
+<b>1: Text Summarization Using Neural Networks  </b>  
 https://digital.library.txstate.edu/bitstream/handle/10877/3819/fulltext.pdf  
 
-<b>2: A Neural Attention Model for Sentence Summarization  </b>
+<b>2: A Neural Attention Model for Sentence Summarization  </b>  
 http://www.aclweb.org/anthology/D15-1044  
   
-<b>3: Query-Oriented Multi-Document Summarization via Unsupervised Deep Learning  </b>
+<b>3: Query-Oriented Multi-Document Summarization via Unsupervised Deep Learning  </b>  
 http://www.aaai.org/ocs/index.php/AAAI/AAAI12/paper/view/5058  
 
 Paper 3 involves 3 steps:  
