@@ -29,7 +29,7 @@ Paper 3 involves 3 steps:
   
 For the Hidden Layer, Restricted Boltzmann Machines(RBMs) are used  
 
-<b>4: Reader-Aware Multi-Document Summarization via Sparse Coding∗  </b>
+<b>5: Reader-Aware Multi-Document Summarization via Sparse Coding∗  </b>
 
 I think this paper doesn't involves deep learning.  
 
