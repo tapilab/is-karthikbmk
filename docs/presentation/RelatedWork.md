@@ -1,7 +1,7 @@
 <b>1: Text Summarization Using Neural Networks  </b>  
 https://digital.library.txstate.edu/bitstream/handle/10877/3819/fulltext.pdf  
 
-In short, build feature vector using info such as tf,idf for every sentence in a document using and feed it to a neural net.  
+In short, build feature vector using info such as tf,idf for every sentence in a document and feed it to a neural net.  
 As discussed, this approach is very trivial ,hence not working on this paper. 
 
 <b>2: Text Summarization using Neural Networks and Rhetorical Structure Theory </b>  
@@ -31,7 +31,7 @@ For the Hidden Layer, Restricted Boltzmann Machines(RBMs) are used
 
 <b>5: Reader-Aware Multi-Document Summarization via Sparse Coding∗  </b>
 
-I think this paper doesn't involves deep learning.  
+I think this paper doesn't involve deep learning.  
 
 
 
