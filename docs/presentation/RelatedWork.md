@@ -35,10 +35,10 @@ I think this paper doesn't involve deep learning.
 
 
 <b>6: Summarization by generating text :  </b><br>
-&nbsp;&nbsp;1.http://cs224d.stanford.edu/reports/aja2015.pdf
-&nbsp;&nbsp;2.http://cs224d.stanford.edu/reports/lucilley.pdf
-&nbsp;&nbsp;3.http://cs224d.stanford.edu/reports/zhenpeng.pdf
-&nbsp;&nbsp;4.http://cs224d.stanford.edu/reports/Suresha.pdf
+&nbsp;&nbsp;1.http://cs224d.stanford.edu/reports/aja2015.pdf<br>
+&nbsp;&nbsp;2.http://cs224d.stanford.edu/reports/lucilley.pdf<br>
+&nbsp;&nbsp;3.http://cs224d.stanford.edu/reports/zhenpeng.pdf<br>
+&nbsp;&nbsp;4.http://cs224d.stanford.edu/reports/Suresha.pdf<br>
 
 
 
