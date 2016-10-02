@@ -1,4 +1,4 @@
-# ms-project-template
+# Multi Document Summarization of Online News Articles using LSTM
 A template for students doing M.S. or undergraduate independent studies/theses.
 
 See instructions here: [Instructions.md](Instructions.md)
