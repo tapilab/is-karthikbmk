@@ -7,7 +7,7 @@ This README.md file should summarize your project. Think of it as the short vers
 
 ## Problem
 
-Here is the problem your are going to solve.
+Real Time News Articles Multi Document Text Summarization 
 
 ## Research questions
 
@@ -23,13 +23,18 @@ Here's how other people have tried to solve this problem, with a few links/citat
 
 ## Data
 
-Here is a description of the data you collected.
+DUC 2001 dataset will be used to build the initial model.
 
 Here is an example data record.
 
 ## Methods
 
-Here is an outline of your approach.
+1. Extract Features. This will be X_train
+2. Compute ROGUE score for every sentence across all the documents. This is will be y_train
+3. This is now a regression problem. Use Ridge as the initial baseline model  
+4. Predict using the trained model  
+5. Repeat steps 1,2,3,4 with RNN as the training model  
+
 
 ## Results
 
