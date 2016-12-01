@@ -4,6 +4,7 @@
 
 ## Problem
 
+Develop Models to Summarize long documents.
 
 ## Research questions
 
@@ -259,7 +260,8 @@ The Social Services director in Orange County wants all residents in the county 
 
 Here's the main conclusions and a list of directions for improvement.
 
-1. Generate the summary instead of extracting it.  
+1. Generate the summary instead of extracting it
 2. Train on all the DUC Datasets - DUC 2002, 2003....2006  
-3. Regularize the Deep Models using Dropout.  
-
+3. Regularize the Deep Models using Dropout. 
+4. Learn the Features from Text instead of Hand-Crafting it 
+5. Work on Query Relevant Summarization
