@@ -19,7 +19,16 @@ Here are the core questions / subproblems you will address:
 
 ## Related work
 
-Here's how other people have tried to solve this problem, with a few links/citations. 
+Here's how other people have tried to solve this problem:  
+
+1. Query-Oriented Multi-Document Summarization via Unsupervised Deep Learning 
+http://www.aaai.org/ocs/index.php/AAAI/AAAI12/paper/view/5058 
+
+2. Ranking with Recursive Neural Networks and Its Application to Multi-document Summarization:  
+http://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/download/9414/9520
+
+3. Reader-Aware Multi-Document Summarization via Sparse Coding:  
+www.aaai.org/ocs/index.php/IJCAI/IJCAI15/paper/download/11398/10841
 
 ## Data
 
