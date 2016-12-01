@@ -1,21 +1,14 @@
-# Text Summarization using Deep Learning and Ridge Regression.
-A template for students doing M.S. or undergraduate independent studies/theses.
-
-See instructions here: [Instructions.md](Instructions.md)
-
-This README.md file should summarize your project. Think of it as the short version of your project report.
+# Text Summarization using Deep Learning and Ridge Regression
 
 ## Problem
 
-TBU
 
 ## Research questions
 
-Here are the core questions / subproblems you will address:
-
-1. ...
-2. ...
-3. ...
+1.What are the relevant features for summarization?  
+2.How to tune the Hyper-parameters for a given model?  
+3.Which model works best for summarization?  
+4.How to stich together multiple sentences for summarization?  
 
 ## Related work
 
