@@ -1,5 +1,7 @@
 # Text Summarization using Deep Learning and Ridge Regression
 
+![summ](https://github.com/tapilab/is-karthikbmk/blob/master/src/Others/summ.png)
+
 ## Problem
 
 
