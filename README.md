@@ -171,9 +171,13 @@ Opinion
 
 1. Extract Features. This will be X_train
 2. Compute ROGUE score for every sentence across all the documents. This is will be y_train
-3. This is now a regression problem. Use Ridge as the initial baseline model  
-4. Predict using the trained model  
-5. Repeat steps 1,2,3,4 with Deep Models
+3. This is now a Regression problem. Use Ridge as the initial Baseline Model  
+4. Predict using the Model 
+5. Select Sentences for Summarization based on a Salience Function 
+6. Evaluate and Tune the Model
+7. Repeat steps 4,5,6 with Deep Models
+8. Identify the Best Model
+9. Generate Summaries using the Best Model
 
 
 ## Validation Errors
