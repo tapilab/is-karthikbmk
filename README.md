@@ -196,7 +196,7 @@ Opinion
 
 ![Ridge](https://github.com/tapilab/is-karthikbmk/blob/master/src/Results/lbfgs_tanh.png)
 
-## Test Errors:  
+## Test Accuracy:  
 ![Test](https://github.com/tapilab/is-karthikbmk/blob/master/src/Results/Test.png)
 
 ## Summaries : 
