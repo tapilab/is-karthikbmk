@@ -5,10 +5,10 @@
 
 ## Research questions
 
-1.What are the relevant features for summarization?
-2.How to tune the Hyper-parameters for a given model?
-3.Which model works best for summarization?
-4.How to stich together multiple sentences for summarization?
+1.What are the relevant features for summarization?  
+2.How to tune the Hyper-parameters for a given model?  
+3.Which model works best for summarization?  
+4.How to stich together multiple sentences for summarization?  
 
 ## Related work
 
